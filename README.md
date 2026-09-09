@@ -1,7 +1,7 @@
 # DriveLM
 # Fine-Tuning Open-Source VLMs for Chain-of-Thought Driving Logic and Waypoint Planning
  
-**Team:** [Jainish Patel]
+**Team:** Jainish Patel
 **Track:** Track 2: Vision-Language-Action (VLA) & End-to-End Driving
 
 ---
