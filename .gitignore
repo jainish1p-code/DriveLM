@@ -1,0 +1,15 @@
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.DS_Store
+
+# Local model and dataset caches
+.cache/
+hf-cache/
+
+# Large local artifacts
+data/
+checkpoints/
+*.zip
+
